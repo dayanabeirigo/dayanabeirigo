@@ -1,4 +1,4 @@
-## Oi!!! Eu sou a Dayana Beirigo, estudante de sistemas para internet!
+## Oi!!! Eu sou a Dayana Beirigo!
 <div align="center">
   <a href="https://github.com/dayanabeirigo">
   <img height="180em" width="400em"
